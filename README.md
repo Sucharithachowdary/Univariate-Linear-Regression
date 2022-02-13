@@ -38,6 +38,6 @@ print(y)
 
 ```
 ## Sample Input and Output
-![output]./(C:\Users\SUCHARITHA\OneDrive\Documents\linear regression.jpg)
+"C:\Users\SUCHARITHA\OneDrive\Documents\linear regression.jpg"
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
