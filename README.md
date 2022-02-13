@@ -38,6 +38,7 @@ print(y)
 
 ```
 ## Sample Input and Output
-"C:\Users\SUCHARITHA\OneDrive\Documents\linear regression.jpg"
+![linear regression](https://user-images.githubusercontent.com/94166007/153746061-9ef96bd6-bf09-4966-b8c6-67d111344c11.PNG)
+
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
